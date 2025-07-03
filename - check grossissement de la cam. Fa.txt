@@ -1,0 +1,5 @@
+- check grossissement de la cam. Faire manière théorique ( par rapport aux lentilles) et pratique mvt de 1µm et voir ce que ça donne. 
+- conversion en GHz à la fin
+- agréger les données (fentres). Agréger selon une pente pour prendre en compte la courbure. Important !!
+- fitter par rapport au nombre d'ordres et relier les paramètres à la variation entre les ordres. (DERNIERE ETAPE).
+- guetter la divergence en terme d'équation optiques pour choisir les bonnes focales.
