@@ -8,7 +8,7 @@ if __name__ == "__main__":
 
     width = 1024
     height = 576
-    order = 5
+    order = 3
     rayleigh = [1, 0.0, 0.1]
     stokes = [0.8, 1.0, 0.15]
     antistokes = [0.6, -1.0, 0.2]
